@@ -1,4 +1,4 @@
-# Ogrodnicy_Systemy_Rozproszone
+# Ogrodnicy Systemy Rozproszone
 
 ## **Opis poblemu:**
 
